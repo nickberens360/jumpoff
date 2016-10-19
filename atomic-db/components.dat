@@ -1,0 +1,154 @@
+[
+    {
+        "component": "buttons",
+        "category": "atoms",
+        "description": "",
+        "backgroundColor": "",
+        "order": "1",
+        "has_js": "false"
+    },
+    {
+        "component": "form-elements",
+        "category": "atoms",
+        "description": "",
+        "backgroundColor": "",
+        "order": "2",
+        "has_js": "false"
+    },
+    {
+        "component": "headings",
+        "category": "atoms",
+        "description": "",
+        "backgroundColor": "",
+        "order": "3",
+        "has_js": "false"
+    },
+    {
+        "component": "block-grid",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": "1",
+        "has_js": "false"
+    },
+    {
+        "component": "grid",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": "2",
+        "has_js": "false"
+    },
+    {
+        "component": "main",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": "3",
+        "has_js": "false"
+    },
+    {
+        "component": "matchheight",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": "4",
+        "has_js": "false"
+    },
+    {
+        "component": "section",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": "5",
+        "has_js": "false"
+    },
+    {
+        "component": "navMain",
+        "category": "molecules",
+        "description": "",
+        "backgroundColor": "",
+        "order": "1",
+        "has_js": "false"
+    },
+    {
+        "component": "footerMain",
+        "category": "organisms",
+        "description": "",
+        "backgroundColor": "",
+        "order": "1",
+        "has_js": "false"
+    },
+    {
+        "component": "headerMain",
+        "category": "organisms",
+        "description": "",
+        "backgroundColor": "",
+        "order": "2",
+        "has_js": "false"
+    },
+    {
+        "component": "col",
+        "category": "variables",
+        "description": "",
+        "backgroundColor": "",
+        "order": 2,
+        "has_js": "false"
+    },
+    {
+        "component": "colors",
+        "category": "variables",
+        "description": "",
+        "backgroundColor": "",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
+        "component": "fonts",
+        "category": "variables",
+        "description": "",
+        "backgroundColor": "",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "vertical-rhythm",
+        "category": "variables",
+        "description": "",
+        "backgroundColor": "",
+        "order": 3,
+        "has_js": "false"
+    },
+    {
+        "component": "wrap",
+        "category": "variables",
+        "description": "",
+        "backgroundColor": "",
+        "order": 4,
+        "has_js": "false"
+    },
+    {
+        "component": "cleanUp",
+        "category": "misc",
+        "description": "",
+        "backgroundColor": "",
+        "order": 17,
+        "has_js": "false"
+    },
+    {
+        "component": "dropit",
+        "category": "vendor",
+        "description": "",
+        "backgroundColor": "",
+        "order": 18,
+        "has_js": "false"
+    },
+    {
+        "component": "serchForm",
+        "category": "layout",
+        "description": "",
+        "backgroundColor": "",
+        "order": -17,
+        "has_js": "false"
+    }
+]

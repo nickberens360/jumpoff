@@ -1,0 +1,34 @@
+[
+    {
+        "category": "atoms",
+        "order": 3
+    },
+    {
+        "category": "layout",
+        "order": 4
+    },
+    {
+        "category": "molecules",
+        "order": 5
+    },
+    {
+        "category": "organisms",
+        "order": 6
+    },
+    {
+        "category": "variables",
+        "order": 2
+    },
+    {
+        "category": "bootstrap",
+        "order": 1
+    },
+    {
+        "category": "misc",
+        "order": 7
+    },
+    {
+        "category": "vendor",
+        "order": 0
+    }
+]

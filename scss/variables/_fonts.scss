@@ -1,0 +1,18 @@
+/*scss/variables/_fonts.scss*/
+
+$font1: 'Montserrat', sans-serif;
+$font2: 'Montserrat', sans-serif;
+
+
+.font1{
+	font-family: $font1; 
+}
+.font2{
+	font-family: $font2; 
+}
+
+.font{
+	span{
+		display:block;
+	}
+}
